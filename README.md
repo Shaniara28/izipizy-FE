@@ -202,4 +202,5 @@ Contributions are what make the open source community such an amazing place to b
 
 ## Contact
 My Email : saniarizkiagustin@gmail.com
+<br/>
 Project Link: [https://github.com/Shaniara28/izipizy-FE](https://github.com/Shaniara28/izipizy-FE)
