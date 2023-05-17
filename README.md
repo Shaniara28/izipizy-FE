@@ -165,31 +165,31 @@ Contributions are what make the open source community such an amazing place to b
     <tr >
       <td align="center">
         <a href="https://github.com/hosealeonardo18">
-          <img width="200"  src="./documentation/hose.jpg" alt=""><br/>
-          <b>Hose Leonardo</b>
+          <img width="200"  src="./documentation/hose.jpg" alt="Hosea Leonardo"><br/>
+          <b>Hosea Leonardo</b>
         </a>
       </td>
       <td align="center">
         <a href="https://github.com/preedok">
-          <img width="200"  src="./documentation/iqbal.jpg" alt=""><br/>
+          <img width="200"  src="./documentation/iqbal.jpg" alt="Muhamad Iqbal Aprido"><br/>
           <b>Muhamad Iqbal Aprido</b>
         </a>
       </td>
       <td align="center">
         <a href="https://github.com/Shaniara28">
-          <img width="200"  src="./documentation/shania.jpg" alt=""><br/>
-          <b>Shania Riski Agustin</b>
+          <img width="200"  src="./documentation/shania.jpg" alt="Shania Risky Agustin"><br/>
+          <b>Shania Risky Agustin</b>
         </a>
       </td>
       <td align="center">
         <a href="https://github.com/RezaldhoArmadhani">
-          <img width="200"  src="./documentation/aldho.jpg" alt=""><br/>
+          <img width="200"  src="./documentation/aldho.jpg" alt="Rezaldho Armadani"><br/>
           <b>Rezaldho Armadani</b>
         </a>
       </td>
       <td align="center">
         <a href="https://github.com/VerdyNordsten">
-          <img width="200"   src="./documentation/verdy.jpg" alt=""><br/>
+          <img width="200"   src="./documentation/verdy.jpg" alt="Verdy Nugraha"><br/>
           <b>Verdy Nugraha</b>
         </a>
       </td>
